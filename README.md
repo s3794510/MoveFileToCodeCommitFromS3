@@ -1,6 +1,6 @@
 # MoveFileToCodeCommitFromS3
 
-Using Lambda 3.11
+Using Python 3.11
 
 Environment variables:
 - AUTHORIZER_ENDPOINT_URL
